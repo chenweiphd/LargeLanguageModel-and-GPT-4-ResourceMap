@@ -7,6 +7,8 @@
 
 ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
+【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
+
 ### RLHF
 
 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗  https://zhuanlan.zhihu.com/p/602458131
