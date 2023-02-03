@@ -1,4 +1,4 @@
-# ChatGPT-resource
+# ChatGPT-resource  (ChatGPT资源汇总)
 
 ## ChatGPT介绍
 
