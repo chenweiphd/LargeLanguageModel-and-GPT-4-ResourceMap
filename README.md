@@ -1,6 +1,5 @@
 # ChatGPT-Hub  (ChatGPT资源汇总)
 
-## ChatGPT介绍
 
 ## ChatGPT技术报告
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
