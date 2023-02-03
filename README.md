@@ -11,8 +11,11 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 为什么chatgpt的上下文连续对话能力得到了大幅度提升？  https://www.zhihu.com/question/575481512/answer/2852937178
 
+## ChatGPT技术讨论小组
+ChatGPT技术讨论小组 http://c.nxw.so/cgpt
 
 ## ChatGPT投资分析
+从CHAT-GPT到生成式AI：人工智能新范式，重新定义生产力-2023-02-宏观大势   https://github.com/chenweiphd/ChatGPT-resource/blob/main/invest/%E4%BB%8ECHAT-GPT%E5%88%B0%E7%94%9F%E6%88%90%E5%BC%8FAI%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B0%E8%8C%83%E5%BC%8F%EF%BC%8C%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E7%94%9F%E4%BA%A7%E5%8A%9B-2023-02-%E5%AE%8F%E8%A7%82%E5%A4%A7%E5%8A%BF.pdf
 
 ## ChatGPT应用
 
