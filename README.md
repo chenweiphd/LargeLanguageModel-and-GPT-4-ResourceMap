@@ -16,6 +16,8 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 为什么chatgpt的上下文连续对话能力得到了大幅度提升？  https://www.zhihu.com/question/575481512/answer/2852937178
 
+### PPO算法讲解  https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
+
 ## ChatGPT技术讨论小组
 ChatGPT技术讨论小组 http://c.nxw.so/cgpt
 
