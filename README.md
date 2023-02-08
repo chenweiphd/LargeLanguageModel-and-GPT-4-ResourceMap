@@ -43,6 +43,8 @@ ChatGPT 这个项目会开源吗？ https://www.zhihu.com/question/571390218/ans
 
 ChatGPT会取代搜索引擎吗  https://zhuanlan.zhihu.com/p/589533490
 
+ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？   https://www.zhihu.com/question/581806122/answer/2880224101
+
 ## 主要网页或论文资源
 
 ChatGPT: Optimizing Language Models for Dialogue    https://openai.com/blog/chatgpt/
