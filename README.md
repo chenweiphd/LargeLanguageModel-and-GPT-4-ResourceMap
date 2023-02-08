@@ -8,7 +8,7 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
 
-通向AGI之路：大型语言模型（LLM）技术精要    https://zhuanlan.zhihu.com/p/597586623
+通向AGI之路：大型语言模型（LLM）技术精要     https://zhuanlan.zhihu.com/p/597586623
 
 
 ### RLHF
@@ -21,7 +21,7 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 ### PPO算法讲解  
 
-https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
+Proximal Policy Optimization (PPO) Explained    https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
 
 ## ChatGPT技术讨论小组
 
@@ -40,6 +40,8 @@ ChatGPT技术讨论小组 http://c.nxw.so/cgpt
 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？  https://www.zhihu.com/question/570782945/answer/2795547780
 
 ChatGPT 这个项目会开源吗？ https://www.zhihu.com/question/571390218/answer/2796908126
+
+ChatGPT会取代搜索引擎吗  https://zhuanlan.zhihu.com/p/589533490
 
 ## 主要网页或论文资源
 
