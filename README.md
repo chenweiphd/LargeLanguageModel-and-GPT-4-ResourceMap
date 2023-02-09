@@ -53,6 +53,8 @@ chatGPT 会取代人的哪些工作？哪些人群的职业规划需要转变？
 
 Open-Assistant（还未完成）    https://github.com/LAION-AI/Open-Assistant
 
+Awesome ChatGPT implementations    https://github.com/stars/acheong08/lists/awesome-chatgpt
+
 ## 账号注册方法
 如何注册和使用chatGPT？ https://www.zhihu.com/question/582647016/answer/2882289347
 
