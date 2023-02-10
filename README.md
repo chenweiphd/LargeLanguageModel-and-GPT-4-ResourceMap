@@ -8,6 +8,8 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
 
+OpenAI的AGI语言智能演进之路：GPT1到ChatGPT   https://zhuanlan.zhihu.com/p/597263206
+
 通向AGI之路：大型语言模型（LLM）技术精要     https://zhuanlan.zhihu.com/p/597586623
 
 ### RLHF
