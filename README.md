@@ -37,7 +37,7 @@ ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.s
 
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
 
-ChatGPT研究框架 https://github.com/chenweiphd/ChatGPT-Hub/blob/main/invest/ChatGPT%20research%20framwork-2023.pdf
+ChatGPT研究框架   https://github.com/chenweiphd/ChatGPT-Hub/blob/main/invest/ChatGPT%20research%20framwork-2023.pdf
 
 从CHAT-GPT到生成式AI：人工智能新范式，重新定义生产力-2023-02-宏观大势   https://github.com/chenweiphd/ChatGPT-resource/blob/main/invest/%E4%BB%8ECHAT-GPT%E5%88%B0%E7%94%9F%E6%88%90%E5%BC%8FAI%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B0%E8%8C%83%E5%BC%8F%EF%BC%8C%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E7%94%9F%E4%BA%A7%E5%8A%9B-2023-02-%E5%AE%8F%E8%A7%82%E5%A4%A7%E5%8A%BF.pdf
 
