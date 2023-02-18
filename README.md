@@ -1,6 +1,10 @@
 # ChatGPT-Hub  (ChatGPT资源汇总)
 
 
+## ChatGPT技术讨论小组
+
+ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
+
 ## ChatGPT技术报告
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
 
@@ -29,9 +33,10 @@ Transformer 之功能概览   https://zhuanlan.zhihu.com/p/604444663
 
 Transformer模型详解   https://zhuanlan.zhihu.com/p/338817680
 
-## ChatGPT技术讨论小组
+## Prompt
 
-ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
+Prompt-based Language Models：模版增强语言模型小结   https://zhuanlan.zhihu.com/p/366771566
+
 
 ## ChatGPT投资分析
 
