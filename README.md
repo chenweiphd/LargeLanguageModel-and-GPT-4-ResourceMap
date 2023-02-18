@@ -55,6 +55,10 @@ chatGPT 会取代人的哪些工作？哪些人群的职业规划需要转变？
 
 ## ChatGPT应用相关开源项目
 
+GPT-neo    https://github.com/EleutherAI/gpt-neo
+
+
+
 一大波 ChatGPT 开源项目，诞生了  https://zhuanlan.zhihu.com/p/590595246
 
 Open-Assistant（还未完成）    https://github.com/LAION-AI/Open-Assistant
