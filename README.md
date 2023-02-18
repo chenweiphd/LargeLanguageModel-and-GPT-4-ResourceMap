@@ -5,6 +5,10 @@
 
 ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
 
+## ChatGPT相关创业投资交流小组
+
+ChatGPT相关创业投资讨论小组/讨论群（点入链接加群助手）http://c.suo.nz/cinv
+
 ## ChatGPT技术报告
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
 
