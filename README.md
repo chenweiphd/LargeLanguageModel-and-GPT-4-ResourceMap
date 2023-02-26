@@ -12,6 +12,8 @@ ChatGPT相关创业投资讨论小组/讨论群（点入链接加群助手）htt
 ## ChatGPT技术报告
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
 
+陈巍谈芯：ChatGPT报告：技术详解和产业未来   https://zhuanlan.zhihu.com/p/608917240   （slide形式，替换了一些新的内容）
+
 ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 
 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
@@ -40,6 +42,10 @@ Transformer模型详解   https://zhuanlan.zhihu.com/p/338817680
 ## Prompt
 
 Prompt-based Language Models：模版增强语言模型小结   https://zhuanlan.zhihu.com/p/366771566
+
+## 思维链
+
+有了Chain of Thought Prompting，大模型能做逻辑推理吗？   https://zhuanlan.zhihu.com/p/589087074
 
 
 ## ChatGPT投资分析
