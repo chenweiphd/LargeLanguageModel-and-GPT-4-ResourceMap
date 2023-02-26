@@ -111,7 +111,7 @@ PPO算法： Proximal Policy Optimization Algorithms   https://arxiv.org/abs/170
 
 思维链：  Chain-of-Thought Prompting Elicits Reasoning in Large Language Models    https://arxiv.org/pdf/2201.11903.pdf
 
-         Scaling Instruction-Finetuned Language Models    https://arxiv.org/pdf/2210.11416.pdf
+Scaling Instruction-Finetuned Language Models    https://arxiv.org/pdf/2210.11416.pdf
 
 ChatGPT技术讨论小组 http://c.nxw.so/cgpt
 
