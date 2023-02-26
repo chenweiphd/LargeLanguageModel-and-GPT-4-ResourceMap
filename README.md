@@ -109,7 +109,9 @@ TAMER框架论文：Interactively Shaping Agents via Human Reinforcement   https
 
 PPO算法： Proximal Policy Optimization Algorithms   https://arxiv.org/abs/1707.06347
 
-思维链：  https://arxiv.org/pdf/2201.11903.pdf
+思维链：  Chain-of-Thought Prompting Elicits Reasoning in Large Language Models    https://arxiv.org/pdf/2201.11903.pdf
+
+         Scaling Instruction-Finetuned Language Models    https://arxiv.org/pdf/2210.11416.pdf
 
 ChatGPT技术讨论小组 http://c.nxw.so/cgpt
 
