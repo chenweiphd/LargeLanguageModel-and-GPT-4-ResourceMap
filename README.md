@@ -1,4 +1,4 @@
-# ChatGPT-Hub  (ChatGPT资源汇总)
+# GPT-4-ChatGPT-Hub  (ChatGPT资源汇总)
 
 
 ## ChatGPT技术讨论小组
@@ -10,7 +10,9 @@ ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.s
 ChatGPT相关创业投资讨论小组/讨论群（点入链接加群助手）http://c.suo.nz/cinv
 
 ## ChatGPT技术报告
-陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
+陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析）  https://zhuanlan.zhihu.com/p/590655677
+
+GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析）https://zhuanlan.zhihu.com/p/614055838
 
 陈巍谈芯：ChatGPT报告：技术详解和产业未来   https://zhuanlan.zhihu.com/p/608917240   （slide形式，替换了一些新的内容）
 
