@@ -36,6 +36,8 @@ OpenAI的AGI语言智能演进之路：GPT1到ChatGPT   https://zhuanlan.zhihu.c
 
 Proximal Policy Optimization (PPO) Explained    https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
 
+PARL框架下简单入门 Proximal Policy Optimization (PPO)    https://aistudio.baidu.com/aistudio/projectdetail/632270
+
 ### Transformer
 Transformer 之功能概览   https://zhuanlan.zhihu.com/p/604444663
 
