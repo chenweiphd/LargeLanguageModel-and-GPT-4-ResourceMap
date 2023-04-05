@@ -113,7 +113,7 @@ ChatGPT: Optimizing Language Models for Dialogue    https://openai.com/blog/chat
 
 GPT-1 论文：Improving Language Understanding by Generative Pre-Training    https://link.zhihu.com/?target=https%3A//cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
 
-GPT-2 论文：Language Models are Unsupervised Multitask Learners    https://link.zhihu.com/?target=https%3A//cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+GPT-2 论文：Language Models are Unsupervised Multitask Learners    https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 
 GPT-3 论文：Language Models are Few-Shot Learners    https://arxiv.org/abs/2005.14165
 
