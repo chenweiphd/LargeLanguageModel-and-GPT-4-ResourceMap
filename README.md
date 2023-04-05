@@ -1,18 +1,22 @@
 # GPT-4-ChatGPT-Hub  (ChatGPT资源汇总)
 
 
-## ChatGPT技术讨论小组
+## GPT-4·ChatGPT技术讨论小组
 
-ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
+GPT-4·ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
 
-## ChatGPT相关创业投资交流小组
+## GPT-4·ChatGPT相关创业投资交流小组
 
-ChatGPT相关创业投资讨论小组/讨论群（点入链接加群助手）http://c.suo.nz/cinv
+GPT-4·ChatGPT相关创业投资讨论小组/讨论群（点入链接加群助手）http://c.suo.nz/cinv
+
+## GPT-4技术报告
+
+陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）    https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ
+
+陈巍谈芯：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析）https://zhuanlan.zhihu.com/p/614055838
 
 ## ChatGPT技术报告
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析）  https://zhuanlan.zhihu.com/p/590655677
-
-陈巍谈芯：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析）https://zhuanlan.zhihu.com/p/614055838
 
 陈巍谈芯：ChatGPT报告：技术详解和产业未来   https://zhuanlan.zhihu.com/p/608917240   （slide形式，替换了一些新的内容）
 
@@ -21,6 +25,8 @@ ChatGPT/InstructGPT详解  https://zhuanlan.zhihu.com/p/590311003
 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
 
 OpenAI的AGI语言智能演进之路：GPT1到ChatGPT   https://zhuanlan.zhihu.com/p/597263206
+
+## 大模型相关技术
 
 通向AGI之路：大型语言模型（LLM）技术精要     https://zhuanlan.zhihu.com/p/597586623
 
@@ -52,7 +58,9 @@ Prompt-based Language Models：模版增强语言模型小结   https://zhuanlan
 有了Chain of Thought Prompting，大模型能做逻辑推理吗？   https://zhuanlan.zhihu.com/p/589087074
 
 
-## ChatGPT投资分析
+##  GPT-4·ChatGPT投资分析
+
+陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）    https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ
 
 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）  https://zhuanlan.zhihu.com/p/590655677
 
@@ -64,7 +72,7 @@ ChatGPT研究框架   https://github.com/chenweiphd/ChatGPT-Hub/blob/main/invest
 
 势如破竹的ChatGPT：未来将推动芯片市场长期强劲增长 https://zhuanlan.zhihu.com/p/604194985
 
-## ChatGPT产业应用分析
+## GPT-4·ChatGPT产业应用分析
 
 ChatGPT的技术演进路线与应用展望 https://zhuanlan.zhihu.com/p/590380191
 
@@ -89,7 +97,7 @@ Awesome ChatGPT implementations    https://github.com/stars/acheong08/lists/awes
 
 ChatGPT 目前仅开放给部分国家注册使用（ 韩国、日本、印度、新加坡、马来西亚、美国 ），需要梯子
 
-## ChatGPT相关讨论
+## GPT-4·ChatGPT相关讨论
 
 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？  https://www.zhihu.com/question/570782945/answer/2795547780
 
