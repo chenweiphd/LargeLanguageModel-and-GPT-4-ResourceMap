@@ -7,16 +7,16 @@ Large Language Model & GPT-4 Hub
 
 (大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
 
-discussion Groups(讨论小组汇总)
--------------------------------
+1.  Discussion Groups(讨论小组汇总)
 
 | 类型     | Group(小组)                       | Link(链接)           | Comment(备注)    |
 |----------|-----------------------------------|----------------------|------------------|
 | 技术讨论 | GPT-4·ChatGPT技术讨论小组/讨论群  | http://c.nxw.so/cgpt | 点入链接加群助手 |
 | 投资创业 | GPT-4·ChatGPT相关创业投资讨论小组 | http://c.suo.nz/cinv | 点入链接加群助手 |
 
-GPT-4技术报告
--------------
+2.  Tech Guide(技术入门)
+
+    1.  GPT-4技术报告
 
 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）
 https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ
