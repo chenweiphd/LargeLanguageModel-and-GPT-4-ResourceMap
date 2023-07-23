@@ -201,7 +201,7 @@ Large Language Model & GPT-4 Hub
 |         |                                   |         |
 |         |                                   |         |
 
-### 5.4 FInetune
+### 5.4 Finetune
 
 | Item                     | Description & Link                                  | Comment |
 | ------------------------ | --------------------------------------------------- | ------- |
