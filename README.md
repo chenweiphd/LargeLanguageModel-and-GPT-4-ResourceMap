@@ -187,7 +187,7 @@ Large Language Model & GPT-4 Hub
 
 
 
-5.3.3 RLHF(人类反馈强化学习数据集)
+#### 5.3.3 RLHF(人类反馈强化学习数据集)
 
 | Dataset | Description & Link                | Comment |
 | ------- | --------------------------------- | ------- |
@@ -200,7 +200,20 @@ Large Language Model & GPT-4 Hub
 |         |                                   |         |
 |         |                                   |         |
 
-### 5.4 Compression(压缩)
+### 5.4 FInetune
+
+| Item                     | Description & Link                                  | Comment |
+| ------------------------ | --------------------------------------------------- | ------- |
+| LLaMA Efficient Tuning   | 基于PEFT的LLaMA微调框架                             |         |
+|                          | https://github.com/hiyouga/LLaMA-Efficient-Tuning   |         |
+| ChatGLM Efficient Tuning | 基于PEFT的高效ChatGLM微调                           |         |
+|                          | https://github.com/hiyouga/ChatGLM-Efficient-Tuning |         |
+|                          |                                                     |         |
+|                          |                                                     |         |
+|                          |                                                     |         |
+|                          |                                                     |         |
+
+### 5.5 Compression(压缩)
 
 | Item     | Description & Link                                           | Comment |
 | -------- | ------------------------------------------------------------ | ------- |
