@@ -18,70 +18,36 @@ Large Language Model & GPT-4 Hub
 
     1.  GPT-4技术报告
 
-陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）
-https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ
+| 类型 | Article(小组)                                                                  | Link(链接)                                        | Comment(备注) |
+|------|--------------------------------------------------------------------------------|---------------------------------------------------|---------------|
+|      | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ |               |
+|      | 陈巍谈芯：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析） | https://zhuanlan.zhihu.com/p/614055838            |               |
 
-陈巍谈芯：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析）https://zhuanlan.zhihu.com/p/614055838
+3.  ChatGPT技术报告
 
-ChatGPT技术报告
----------------
+| 类型 | Article(文章)                                                                         | Link(链接)                             | Comment(备注)                 |
+|------|---------------------------------------------------------------------------------------|----------------------------------------|-------------------------------|
+|      | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析） | https://zhuanlan.zhihu.com/p/590655677 |                               |
+|      | 陈巍：ChatGPT报告：技术详解和产业未来                                                 | https://zhuanlan.zhihu.com/p/608917240 | slide形式，替换了一些新的内容 |
+|      | ChatGPT/InstructGPT详解                                                               | https://zhuanlan.zhihu.com/p/590311003 |                               |
+|      | 【强化学习 229】ChatGPT/InstructGPT                                                   | https://zhuanlan.zhihu.com/p/589827115 |                               |
+|      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT                                            | https://zhuanlan.zhihu.com/p/597263206 |                               |
 
-陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来
-（收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/590655677
+4.  大模型相关技术
 
-陈巍谈芯：ChatGPT报告：技术详解和产业未来 https://zhuanlan.zhihu.com/p/608917240
-（slide形式，替换了一些新的内容）
+| 类型              | Article(文章)                                          | Link(链接)                                                                             | Comment(备注) |
+|-------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------|---------------|
+|                   | 通向AGI之路：大型语言模型（LLM）技术精要               | https://zhuanlan.zhihu.com/p/597586623                                                 |               |
+| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗  | https://zhuanlan.zhihu.com/p/602458131                                                 |               |
+| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？    | https://www.zhihu.com/question/575481512/answer/2852937178                             |               |
+| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained           | https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |               |
+| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO)  | https://aistudio.baidu.com/aistudio/projectdetail/632270                               |               |
+| Transformer       | Transformer 之功能概览                                 | https://zhuanlan.zhihu.com/p/604444663                                                 |               |
+| Transformer       | Transformer模型详解                                    | https://zhuanlan.zhihu.com/p/338817680                                                 |               |
+| Prompt            | Prompt-based Language Models：模版增强语言模型小结     | https://zhuanlan.zhihu.com/p/366771566                                                 |               |
+| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ | https://zhuanlan.zhihu.com/p/589087074                                                 |               |
 
-ChatGPT/InstructGPT详解 https://zhuanlan.zhihu.com/p/590311003
-
-【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115
-
-OpenAI的AGI语言智能演进之路：GPT1到ChatGPT
-https://zhuanlan.zhihu.com/p/597263206
-
-大模型相关技术
---------------
-
-通向AGI之路：大型语言模型（LLM）技术精要 https://zhuanlan.zhihu.com/p/597586623
-
-### RLHF
-
-解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗
-https://zhuanlan.zhihu.com/p/602458131
-
-### Training(训练)
-
-为什么chatgpt的上下文连续对话能力得到了大幅度提升？
-https://www.zhihu.com/question/575481512/answer/2852937178
-
-### PPO算法讲解
-
-Proximal Policy Optimization (PPO) Explained
-https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b
-
-PARL框架下简单入门 Proximal Policy Optimization (PPO)
-https://aistudio.baidu.com/aistudio/projectdetail/632270
-
-### Transformer
-
-Transformer 之功能概览 https://zhuanlan.zhihu.com/p/604444663
-
-Transformer模型详解 https://zhuanlan.zhihu.com/p/338817680
-
-Prompt
-------
-
-Prompt-based Language Models：模版增强语言模型小结
-https://zhuanlan.zhihu.com/p/366771566
-
-思维链
-------
-
-有了Chain of Thought Prompting，大模型能做逻辑推理吗？
-https://zhuanlan.zhihu.com/p/589087074
-
-GPT-4·ChatGPT投资分析
----------------------
+5.  GPT-4·ChatGPT投资分析
 
 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）
 https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ
@@ -100,8 +66,7 @@ https://github.com/chenweiphd/ChatGPT-resource/blob/main/invest/%E4%BB%8ECHAT-GP
 势如破竹的ChatGPT：未来将推动芯片市场长期强劲增长
 https://zhuanlan.zhihu.com/p/604194985
 
-GPT-4·ChatGPT产业应用分析
--------------------------
+1.  GPT-4·ChatGPT产业应用分析
 
 ChatGPT的技术演进路线与应用展望 https://zhuanlan.zhihu.com/p/590380191
 
@@ -110,8 +75,7 @@ https://www.zhihu.com/question/582809884/answer/2883146417
 
 可怕！颠覆性新科技ChatGPT将令十类人失业 https://zhuanlan.zhihu.com/p/603655945
 
-ChatGPT应用相关开源项目
------------------------
+1.  ChatGPT应用相关开源项目
 
 GPT-neo https://github.com/EleutherAI/gpt-neo
 
@@ -122,8 +86,7 @@ Open-Assistant（还未完成） https://github.com/LAION-AI/Open-Assistant
 Awesome ChatGPT implementations
 https://github.com/stars/acheong08/lists/awesome-chatgpt
 
-账号注册方法
-------------
+1.  账号注册方法
 
 如何注册和使用chatGPT？
 https://www.zhihu.com/question/582647016/answer/2882289347
@@ -131,8 +94,7 @@ https://www.zhihu.com/question/582647016/answer/2882289347
 ChatGPT 目前仅开放给部分国家注册使用（ 韩国、日本、印度、新加坡、马来西亚、美国
 ），需要梯子
 
-GPT-4·ChatGPT相关讨论
----------------------
+1.  GPT-4·ChatGPT相关讨论
 
 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？
 https://www.zhihu.com/question/570782945/answer/2795547780
@@ -145,8 +107,7 @@ ChatGPT会取代搜索引擎吗 https://zhuanlan.zhihu.com/p/589533490
 ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？
 https://www.zhihu.com/question/581806122/answer/2880224101
 
-主要网页或论文资源
-------------------
+1.  主要网页或论文资源
 
 ChatGPT: Optimizing Language Models for Dialogue
 https://openai.com/blog/chatgpt/
