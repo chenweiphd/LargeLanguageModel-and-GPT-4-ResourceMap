@@ -1,6 +1,6 @@
 ![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/2c4c3208-50ff-4f7d-8789-04d5ecf4d6a8)
 
-# Large Language Model & Multimodal Large Model & GPT-N Hub 
+# Large Language Model & GPT-4 Hub 
 
 (大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
 
