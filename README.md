@@ -1,4 +1,4 @@
-![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/cc5d416c-c66b-45a8-8557-1636d226d7b7)
+![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/ee563270-c767-4920-8911-9ee44c098e13)
 
 Large Language Model & GPT-4 Hub
 ================================
