@@ -23,7 +23,8 @@ Large Language Model & GPT-4 Hub
 |                | https://zhuanlan.zhihu.com/p/620087339                                                |                               |
 |                | 陈巍：GPT-4核心技术分析报告（5）——GPT-4的算力要点与芯片（收录于GPT-4/ChatGPT技术与产业分析）|                            | 
 |                | https://zhuanlan.zhihu.com/p/611464068                                               |                               |
-
+|                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                         |                            |
+|                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                      |                              |
 
 ### 2.2 ChatGPT技术报告
 
@@ -68,7 +69,7 @@ Large Language Model & GPT-4 Hub
 
 | Classification | Article                                                                                                                                                                                                                                                                                                                  | Comment |
 |----------------|---------------------------------------------------------------------------------------------------|---------|
-|                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                                                                                                                                                                                                                                                      |         |
+|                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                   |         |
 |                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                                                                                                                                                                                                                                                        |         |
 |                | 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）                                                                                                                                                                                                                                         |         |
 |                | https://zhuanlan.zhihu.com/p/590655677                                                                                                                                                                                                                                                                                   |         |
