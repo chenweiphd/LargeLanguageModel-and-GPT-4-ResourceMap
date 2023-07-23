@@ -1,4 +1,4 @@
-![LLM+MLM](https://github.com/chenweiphd/LLM-MLM-GPT-4-Hub/assets/100336131/27bbb881-1b72-4d56-90d4-1ae000f5926e)
+![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/2c4c3208-50ff-4f7d-8789-04d5ecf4d6a8)
 
 # Large Language Model & Multimodal Large Model & GPT-N Hub 
 
