@@ -144,4 +144,8 @@ https://arxiv.org/pdf/2201.11903.pdf
 Scaling Instruction-Finetuned Language Models
 https://arxiv.org/pdf/2210.11416.pdf
 
-ChatGPT技术讨论小组 http://c.nxw.so/cgpt
+ChatGPT技术讨论小组 <http://c.nxw.so/cgpt>
+
+Main Authors
+
+CHEN Wei
