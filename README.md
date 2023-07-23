@@ -35,17 +35,17 @@ Large Language Model & GPT-4 Hub
 
 4.  大模型相关技术
 
-| 类型              | Article(文章)                                          | Link(链接)                                                                             | Comment(备注) |
-|-------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------|---------------|
-|                   | 通向AGI之路：大型语言模型（LLM）技术精要               | https://zhuanlan.zhihu.com/p/597586623                                                 |               |
-| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗  | https://zhuanlan.zhihu.com/p/602458131                                                 |               |
-| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？    | https://www.zhihu.com/question/575481512/answer/2852937178                             |               |
-| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained           | https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |               |
-| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO)  | https://aistudio.baidu.com/aistudio/projectdetail/632270                               |               |
-| Transformer       | Transformer 之功能概览                                 | https://zhuanlan.zhihu.com/p/604444663                                                 |               |
-| Transformer       | Transformer模型详解                                    | https://zhuanlan.zhihu.com/p/338817680                                                 |               |
-| Prompt            | Prompt-based Language Models：模版增强语言模型小结     | https://zhuanlan.zhihu.com/p/366771566                                                 |               |
-| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ | https://zhuanlan.zhihu.com/p/589087074                                                 |               |
+| 类型              | Article(文章)                                                                                                                       | Comment(备注) |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------|
+|                   | 通向AGI之路：大型语言模型（LLM）技术精要 https://zhuanlan.zhihu.com/p/597586623                                                     |               |
+| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 https://zhuanlan.zhihu.com/p/602458131                                        |               |
+| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？ https://www.zhihu.com/question/575481512/answer/2852937178                      |               |
+| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |               |
+| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO) https://aistudio.baidu.com/aistudio/projectdetail/632270                      |               |
+| Transformer       | Transformer 之功能概览 https://zhuanlan.zhihu.com/p/604444663                                                                       |               |
+| Transformer       | Transformer模型详解 https://zhuanlan.zhihu.com/p/338817680                                                                          |               |
+| Prompt            | Prompt-based Language Models：模版增强语言模型小结 https://zhuanlan.zhihu.com/p/366771566                                           |               |
+| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ https://zhuanlan.zhihu.com/p/589087074                                       |               |
 
 5.  GPT-4·ChatGPT投资分析
 
