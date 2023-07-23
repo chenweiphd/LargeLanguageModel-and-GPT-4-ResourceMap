@@ -19,18 +19,17 @@ Large Language Model & GPT-4 Hub
 
 ### 2.1  GPT-4技术报告
 
-| Classification | Dataset                                                                                      | Comment |
-|----------------|----------------------------------------------------------------------------------------------|---------|
-|                | 陈巍：GPT-4核心技术分析报告（2）——GPT-4的技术分析（收录于GPT-4/ChatGPT技术与产业分析）       |         |
-|                | https://zhuanlan.zhihu.com/p/620087339                                                       |         |
-|                | 陈巍：GPT-4核心技术分析报告（5）——GPT-4的算力要点与芯片（收录于GPT-4/ChatGPT技术与产业分析） |         |
-|                | https://zhuanlan.zhihu.com/p/611464068                                                       |         |
-|                | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                              |         |
-|                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ>                                          |         |
-|                | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                              |         |
-|                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                           |         |
-|                |                                                                                              |         |
-|                |                                                                                              |         |
+| Classification | Article                                                                                                                          | Comment                       |
+|                | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析）|                               |
+|                | https://zhuanlan.zhihu.com/p/590655677                                                                                       |                               |
+|                | 陈巍：ChatGPT报告：技术详解和产业未来                                                                                         | slide形式，替换了一些新的内容 |
+|                | https://zhuanlan.zhihu.com/p/608917240                                                                                    |                               |
+|                | ChatGPT/InstructGPT详解                                                                                                     |                               |
+|                | https://zhuanlan.zhihu.com/p/590311003                                                                                        |                               |
+|                | 【强化学习 229】ChatGPT/InstructGPT                                                                                        |                               |
+|                | https://zhuanlan.zhihu.com/p/589827115                                                                                      |                               |
+|                | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT                                                                                   |                               |
+|                | https://zhuanlan.zhihu.com/p/597263206                                                                                        |                               |
 
 
 ### 2.2  ChatGPT技术报告
