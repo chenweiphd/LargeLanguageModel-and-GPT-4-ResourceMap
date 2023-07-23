@@ -18,20 +18,20 @@ Large Language Model & GPT-4 Hub
 
     1.  GPT-4技术报告
 
-| 类型 | Article(文章)                                                                                                         | Comment(备注) |
-|------|-----------------------------------------------------------------------------------------------------------------------|---------------|
-|      | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析） https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ     |               |
-|      | 陈巍谈芯：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/614055838 |               |
+| 类型 | Article                                                                                                           | Comment |
+|------|-------------------------------------------------------------------------------------------------------------------|---------|
+|      | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析） https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ |         |
+|      | 陈巍：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/614055838 |         |
 
 3.  ChatGPT技术报告
 
-| 类型 | Article(文章)                                                                         | Link(链接)                             | Comment(备注)                 |
-|------|---------------------------------------------------------------------------------------|----------------------------------------|-------------------------------|
-|      | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析） | https://zhuanlan.zhihu.com/p/590655677 |                               |
-|      | 陈巍：ChatGPT报告：技术详解和产业未来                                                 | https://zhuanlan.zhihu.com/p/608917240 | slide形式，替换了一些新的内容 |
-|      | ChatGPT/InstructGPT详解                                                               | https://zhuanlan.zhihu.com/p/590311003 |                               |
-|      | 【强化学习 229】ChatGPT/InstructGPT                                                   | https://zhuanlan.zhihu.com/p/589827115 |                               |
-|      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT                                            | https://zhuanlan.zhihu.com/p/597263206 |                               |
+| 类型 | Article(文章)                                                                                                                | Link(链接) | Comment(备注)                 |
+|------|------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------|
+|      | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/590655677 |            |                               |
+|      | 陈巍：ChatGPT报告：技术详解和产业未来 https://zhuanlan.zhihu.com/p/608917240                                                 |            | slide形式，替换了一些新的内容 |
+|      | ChatGPT/InstructGPT详解 https://zhuanlan.zhihu.com/p/590311003                                                               |            |                               |
+|      | 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115                                                   |            |                               |
+|      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT https://zhuanlan.zhihu.com/p/597263206                                            |            |                               |
 
 4.  大模型相关技术
 
