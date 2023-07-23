@@ -1,10 +1,10 @@
 ![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/6a82fbae-936c-4361-9fc9-3e8b402ec4ef)
 
 
-Large Language Model & GPT-4 Hub
+Large Language Model & GPT-4 Tech and Industry Hub
 ================================
 
-(大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
+(大语言模型 & 多模态大模型 & 生成式预训练变换器-N 技术与产业资源汇总)
 
 
 
