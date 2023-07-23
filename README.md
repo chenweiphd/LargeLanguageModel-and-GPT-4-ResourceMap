@@ -9,7 +9,7 @@ Large Language Model & GPT-4 Hub
 
 1.  Discussion Groups(讨论小组汇总)
 
-| 类型     | Group(小组)                       | Link(链接)           | Comment(备注)    |
+| 类型     | Group                             | Link                 | Comment          |
 |----------|-----------------------------------|----------------------|------------------|
 | 技术讨论 | GPT-4·ChatGPT技术讨论小组/讨论群  | http://c.nxw.so/cgpt | 点入链接加群助手 |
 | 投资创业 | GPT-4·ChatGPT相关创业投资讨论小组 | http://c.suo.nz/cinv | 点入链接加群助手 |
@@ -25,27 +25,27 @@ Large Language Model & GPT-4 Hub
 
 3.  ChatGPT技术报告
 
-| 类型 | Article(文章)                                                                                                                | Link(链接) | Comment(备注)                 |
-|------|------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------|
-|      | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/590655677 |            |                               |
-|      | 陈巍：ChatGPT报告：技术详解和产业未来 https://zhuanlan.zhihu.com/p/608917240                                                 |            | slide形式，替换了一些新的内容 |
-|      | ChatGPT/InstructGPT详解 https://zhuanlan.zhihu.com/p/590311003                                                               |            |                               |
-|      | 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115                                                   |            |                               |
-|      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT https://zhuanlan.zhihu.com/p/597263206                                            |            |                               |
+| 类型 | Article                                                                                                                      | Comment                       |
+|------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+|      | 陈巍：ChatGPT发展历程、原理、技术架构和产业未来 （收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/590655677 |                               |
+|      | 陈巍：ChatGPT报告：技术详解和产业未来 https://zhuanlan.zhihu.com/p/608917240                                                 | slide形式，替换了一些新的内容 |
+|      | ChatGPT/InstructGPT详解 https://zhuanlan.zhihu.com/p/590311003                                                               |                               |
+|      | 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115                                                   |                               |
+|      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT https://zhuanlan.zhihu.com/p/597263206                                            |                               |
 
 4.  大模型相关技术
 
-| 类型              | Article(文章)                                                                                                                       | Comment(备注) |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------|
-|                   | 通向AGI之路：大型语言模型（LLM）技术精要 https://zhuanlan.zhihu.com/p/597586623                                                     |               |
-| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 https://zhuanlan.zhihu.com/p/602458131                                        |               |
-| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？ https://www.zhihu.com/question/575481512/answer/2852937178                      |               |
-| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |               |
-| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO) https://aistudio.baidu.com/aistudio/projectdetail/632270                      |               |
-| Transformer       | Transformer 之功能概览 https://zhuanlan.zhihu.com/p/604444663                                                                       |               |
-| Transformer       | Transformer模型详解 https://zhuanlan.zhihu.com/p/338817680                                                                          |               |
-| Prompt            | Prompt-based Language Models：模版增强语言模型小结 https://zhuanlan.zhihu.com/p/366771566                                           |               |
-| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ https://zhuanlan.zhihu.com/p/589087074                                       |               |
+| 类型              | Article                                                                                                                             | Comment |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------|
+|                   | 通向AGI之路：大型语言模型（LLM）技术精要 https://zhuanlan.zhihu.com/p/597586623                                                     |         |
+| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 https://zhuanlan.zhihu.com/p/602458131                                        |         |
+| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？ https://www.zhihu.com/question/575481512/answer/2852937178                      |         |
+| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |         |
+| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO) https://aistudio.baidu.com/aistudio/projectdetail/632270                      |         |
+| Transformer       | Transformer 之功能概览 https://zhuanlan.zhihu.com/p/604444663                                                                       |         |
+| Transformer       | Transformer模型详解 https://zhuanlan.zhihu.com/p/338817680                                                                          |         |
+| Prompt            | Prompt-based Language Models：模版增强语言模型小结 https://zhuanlan.zhihu.com/p/366771566                                           |         |
+| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ https://zhuanlan.zhihu.com/p/589087074                                       |         |
 
 5.  GPT-4·ChatGPT投资分析
 
