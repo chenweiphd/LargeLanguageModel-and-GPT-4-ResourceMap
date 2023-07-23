@@ -34,7 +34,7 @@ Large Language Model & GPT-4 Hub
 |      | 【强化学习 229】ChatGPT/InstructGPT https://zhuanlan.zhihu.com/p/589827115                                                   |                               |
 |      | OpenAI的AGI语言智能演进之路：GPT1到ChatGPT https://zhuanlan.zhihu.com/p/597263206                                            |                               |
 
-### 2.3  大模型相关技术
+### 2.3  Large Language Model Technoglogy(大模型技术)
 
 | 类型              | Article                                                                                                                             | Comment |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------|
