@@ -21,7 +21,7 @@ Large Language Model & GPT-4 Hub
 |----------------|---------------------------------------------------------------------------------------|-------------------------------|
 |                | 陈巍：GPT-4核心技术分析报告（2）——GPT-4的技术分析（收录于GPT-4/ChatGPT技术与产业分析） |                               |
 |                | https://zhuanlan.zhihu.com/p/620087339                                                |                               |
-|                | 陈巍：GPT-4核心技术分析报告（5）——GPT-4的算力要点与芯片（收录于GPT-4/ChatGPT技术与产业分析）|                            | 
+|                | 陈巍：GPT-4核心技术分析报告（5）——GPT-4的算力要点与芯片（收录于GPT-4/ChatGPT技术与产业分析）|                            |
 |                | https://zhuanlan.zhihu.com/p/611464068                                               |                               |
 |                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                         |                            |
 |                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                      |                              |
@@ -94,8 +94,20 @@ Large Language Model & GPT-4 Hub
 
 ## 5. Model Resources(模型资源)
 
-
 ### 5.1 Foundation Model(基础模型)
+
+
+
+#### 5.1.2 Multimodal(多模态)
+
+| Model        | Description & Link                                           | Comment |
+| ------------ | ------------------------------------------------------------ | ------- |
+| VisualGLM-6B | 开源的，支持图像、中文和英文的多模态对话语言模型，语言模型基于 ChatGLM-6B |         |
+|              | https://github.com/THUDM/VisualGLM-6B                        |         |
+| VisCPM       | 开源的多模态大模型系列，支持中英双语的多模态对话能力（VisCPM-Chat模型）和文到图生成能力（VisCPM-Paint模型） |         |
+|              | https://github.com/OpenBMB/VisCPM                            |         |
+|              |                                                              |         |
+|              |                                                              |         |
 
 ### 5.2 Domain Model(垂域模型)
 
@@ -103,14 +115,25 @@ Large Language Model & GPT-4 Hub
 
 Pre-train Dataset(预训练数据集)
 
-| Dataset          | Description & Link                                                                     | Comment |
-|------------------|----------------------------------------------------------------------------------------|---------|
-| MNBVC            | 超大规模中文语料集，不但包括主流文化，也包括各个小众文化甚至火星文的数据               |         |
-|                  | https://github.com/esbatmop/MNBVC                                                      |         |
+| Dataset          | Description & Link                                           | Comment |
+| ---------------- | ------------------------------------------------------------ | ------- |
+| MNBVC            | 超大规模中文语料集，不但包括主流文化，也包括各个小众文化甚至火星文的数据 |         |
+|                  | https://github.com/esbatmop/MNBVC                            |         |
 | WuDaoCorporaText | 北京智源人工智能研究院（智源研究院）构建的大规模、高质量数据集，用于支撑大模型训练研究 |         |
-|                  | https://data.baai.ac.cn/details/WuDaoCorporaText                                       |         |
-| CLUECorpus2020   | 对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料              |         |
-|                  | https://github.com/CLUEbenchmark/CLUECorpus2020                                        |         |
+|                  | https://data.baai.ac.cn/details/WuDaoCorporaText             |         |
+| CLUECorpus2020   | 对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料 |         |
+|                  | https://github.com/CLUEbenchmark/CLUECorpus2020              |         |
+| Argilla          | Open-source data curation platform for LLMs，MLOps for NLP: from data labeling to model monitoring |         |
+|                  | https://github.com/argilla-io/argilla                        |         |
+
+
+
+### 5.4 Compression(压缩)
+
+| Item     | Description & Link                                           | Comment |
+| -------- | ------------------------------------------------------------ | ------- |
+| RPTQ4LLM | RPTQ: Reorder-Based Post-Training Quantization for Large Language Models |         |
+|          | https://github.com/hahnyuan/RPTQ4LLM                         |         |
 
 ## 6. Application Open Source Projects(应用开源项目)
 
