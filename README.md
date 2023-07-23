@@ -1,6 +1,6 @@
-# GPT-4-ChatGPT-Hub  (ChatGPT资源汇总)
+![LLM+MLM](https://github.com/chenweiphd/LLM-MLM-GPT-4-Hub/assets/100336131/27bbb881-1b72-4d56-90d4-1ae000f5926e)
 
-
+# Large Language Model & Multimodal Large Model & GPT-N Hub  (大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
 ## GPT-4·ChatGPT技术讨论小组
 
 GPT-4·ChatGPT技术讨论小组/讨论群（点入链接加群助手） http://c.nxw.so/cgpt
