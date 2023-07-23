@@ -1,20 +1,19 @@
-![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/ee563270-c767-4920-8911-9ee44c098e13)
+![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/6a82fbae-936c-4361-9fc9-3e8b402ec4ef)
+
 
 Large Language Model & GPT-4 Hub
 ================================
 
 (大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
 
-1. Discussion Groups(讨论小组汇总)
-----------------------------------
+## 1. Discussion Groups(讨论小组汇总)
 
 | Classification | Group                             | Link                 | Comment          |
 |----------------|-----------------------------------|----------------------|------------------|
 | 技术讨论       | GPT-4·ChatGPT技术讨论小组/讨论群  | http://c.nxw.so/cgpt | 点入链接加群助手 |
 | 投资创业       | GPT-4·ChatGPT相关创业投资讨论小组 | http://c.suo.nz/cinv | 点入链接加群助手 |
 
-2. Tech Guide(技术入门)
------------------------
+## 2. Tech Guide(技术入门)
 
 ### 2.1 GPT-4技术报告
 
@@ -69,11 +68,11 @@ Large Language Model & GPT-4 Hub
 | Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？                                 |         |
 |                   | https://zhuanlan.zhihu.com/p/589087074                                                 |         |
 
-3. Investment Analysis(投资分析)
---------------------------------
+## 3. Investment Analysis(投资分析)
+
 
 | Classification | Article                                                                                                                                                                                                                                                                                                                  | Comment |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|----------------|---------------------------------------------------------------------------------------------------|---------|
 |                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                                                                                                                                                                                                                                                      |         |
 |                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                                                                                                                                                                                                                                                        |         |
 |                | 陈巍谈芯：ChatGPT发展历程、原理、技术架构和产业未来 （收录于先进AI技术深度解读）                                                                                                                                                                                                                                         |         |
@@ -86,8 +85,7 @@ Large Language Model & GPT-4 Hub
 |                | 势如破竹的ChatGPT：未来将推动芯片市场长期强劲增长                                                                                                                                                                                                                                                                        |         |
 |                | https://zhuanlan.zhihu.com/p/604194985                                                                                                                                                                                                                                                                                   |         |
 
-4. Industry Analysis(产业分析)
-------------------------------
+## 4. Industry Analysis(产业分析)
 
 | Classification | Article                                                    | Comment |
 |----------------|------------------------------------------------------------|---------|
@@ -98,8 +96,8 @@ Large Language Model & GPT-4 Hub
 |                | 可怕！颠覆性新科技ChatGPT将令十类人失业                    |         |
 |                | https://zhuanlan.zhihu.com/p/603655945                     |         |
 
-5. Model Resources(模型资源)
-----------------------------
+## 5. Model Resources(模型资源)
+
 
 ### 5.1 Foundation Model(基础模型)
 
@@ -118,8 +116,7 @@ Pre-train Dataset(预训练数据集)
 | CLUECorpus2020   | 对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料              |         |
 |                  | https://github.com/CLUEbenchmark/CLUECorpus2020                                        |         |
 
-6. Application Open Source Projects(应用开源项目)
--------------------------------------------------
+## 6. Application Open Source Projects(应用开源项目)
 
 | Classification | Article                                                                                  | Comment |
 |----------------|------------------------------------------------------------------------------------------|---------|
@@ -131,8 +128,7 @@ Pre-train Dataset(预训练数据集)
 |                | https://github.com/LAION-AI/Open-Assistant                                               |         |
 |                | Awesome ChatGPT implementations https://github.com/stars/acheong08/lists/awesome-chatgpt |         |
 
-7. GPT-4·ChatGPT相关讨论
-------------------------
+## 7. Related Discussion(相关讨论)
 
 | Classification | Article                                                                                                                          | Comment |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------|---------|
@@ -141,8 +137,8 @@ Pre-train Dataset(预训练数据集)
 |                | ChatGPT会取代搜索引擎吗 https://zhuanlan.zhihu.com/p/589533490                                                                   |         |
 |                | ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？ https://www.zhihu.com/question/581806122/answer/2880224101  |         |
 
-8. 主要网页或论文资源
----------------------
+## 8. Web& Paper (网页论文资源)
+
 
 ChatGPT: Optimizing Language Models for Dialogue
 https://openai.com/blog/chatgpt/
