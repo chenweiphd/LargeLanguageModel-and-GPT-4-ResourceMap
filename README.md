@@ -5,6 +5,8 @@ Large Language Model & GPT-4 Hub
 
 (大语言模型 & 多模态大模型 & 生成式预训练变换器-N 资源汇总)
 
+
+
 ## 1.  Discussion Groups(讨论小组汇总)
 
 | 类型     | Group                             | Link                 | Comment          |
@@ -13,7 +15,6 @@ Large Language Model & GPT-4 Hub
 | 投资创业 | GPT-4·ChatGPT相关创业投资讨论小组 | http://c.suo.nz/cinv | 点入链接加群助手 |
 
 
-  
 ## 2.  Tech Guide(技术入门)
 
 ### 2.1  GPT-4技术报告
@@ -47,6 +48,7 @@ Large Language Model & GPT-4 Hub
 | Prompt            | Prompt-based Language Models：模版增强语言模型小结 https://zhuanlan.zhihu.com/p/366771566                                           |         |
 | Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ https://zhuanlan.zhihu.com/p/589087074                                       |         |
 
+
 ## 3.  Investment Analysis(投资分析)
 
 | Classification | Article                                                                                                                                                                                                                                                                                                                                                                                       | Comment |
@@ -76,9 +78,9 @@ Large Language Model & GPT-4 Hub
 
 ## 5.  Model Resources(模型资源)
 
-    1.  Foundation Model(基础模型)
+### 5.1  Foundation Model(基础模型)
 
-    2.  Domain Model(垂域模型)
+### 5.2  Domain Model(垂域模型)
 
 ## 6.  Application Open Source Projects(应用开源项目)
 
