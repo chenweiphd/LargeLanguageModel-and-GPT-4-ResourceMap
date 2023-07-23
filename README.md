@@ -19,10 +19,19 @@ Large Language Model & GPT-4 Hub
 
 ### 2.1  GPT-4技术报告
 
-| 类型 | Article                                                                                                           | Comment |
-|------|-------------------------------------------------------------------------------------------------------------------|---------|
-|      | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析） https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ |         |
-|      | 陈巍：GPT-4模型特征与训练信息最新解读（收录于GPT-4/ChatGPT技术与产业分析） https://zhuanlan.zhihu.com/p/614055838 |         |
+| Classification | Dataset                                                                                      | Comment |
+|----------------|----------------------------------------------------------------------------------------------|---------|
+|                | 陈巍：GPT-4核心技术分析报告（2）——GPT-4的技术分析（收录于GPT-4/ChatGPT技术与产业分析）       |         |
+|                | https://zhuanlan.zhihu.com/p/620087339                                                       |         |
+|                | 陈巍：GPT-4核心技术分析报告（5）——GPT-4的算力要点与芯片（收录于GPT-4/ChatGPT技术与产业分析） |         |
+|                | https://zhuanlan.zhihu.com/p/611464068                                                       |         |
+|                | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                              |         |
+|                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ>                                          |         |
+|                | 陈巍：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                              |         |
+|                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                           |         |
+|                |                                                                                              |         |
+|                |                                                                                              |         |
+
 
 ### 2.2  ChatGPT技术报告
 
