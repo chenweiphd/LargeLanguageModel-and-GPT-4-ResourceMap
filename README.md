@@ -47,7 +47,7 @@ Large Language Model & GPT-4 Hub
 | Prompt            | Prompt-based Language Models：模版增强语言模型小结 https://zhuanlan.zhihu.com/p/366771566                                           |         |
 | Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？ https://zhuanlan.zhihu.com/p/589087074                                       |         |
 
-5.  GPT-4·ChatGPT投资分析
+5.  Investment Analysis(投资分析)
 
 | Classification | Article                                                                                                                                                                                                                                                                                                                                                                                       | Comment |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
@@ -63,27 +63,36 @@ Large Language Model & GPT-4 Hub
 |                | 势如破竹的ChatGPT：未来将推动芯片市场长期强劲增长                                                                                                                                                                                                                                                                                                                                             |         |
 |                | https://zhuanlan.zhihu.com/p/604194985                                                                                                                                                                                                                                                                                                                                                        |         |
 
-6.  GPT-4·ChatGPT产业应用分析
+6.  Industry Analysis(产业分析)
 
-ChatGPT的技术演进路线与应用展望 https://zhuanlan.zhihu.com/p/590380191
+| Classification | Article                                                                                                            | Comment |
+|----------------|--------------------------------------------------------------------------------------------------------------------|---------|
+|                | ChatGPT的技术演进路线与应用展望                                                                                    |         |
+|                | https://zhuanlan.zhihu.com/p/590380191                                                                             |         |
+|                | chatGPT 会取代人的哪些工作？哪些人群的职业规划需要转变？                                                           |         |
+|                | https://www.zhihu.com/question/582809884/answer/2883146417                                                         |         |
+|                | 可怕！颠覆性新科技ChatGPT将令十类人失业                                                                            |         |
+|                | https://zhuanlan.zhihu.com/p/603655945                                                                             |         |
 
-chatGPT 会取代人的哪些工作？哪些人群的职业规划需要转变？
-https://www.zhihu.com/question/582809884/answer/2883146417
+7.  Model Resources(模型资源)
 
-可怕！颠覆性新科技ChatGPT将令十类人失业 https://zhuanlan.zhihu.com/p/603655945
+    1.  Foundation Model(基础模型)
 
-1.  ChatGPT应用相关开源项目
+    2.  Domain Model(垂域模型)
 
-GPT-neo https://github.com/EleutherAI/gpt-neo
+8.  Application Open Source Projects(应用开源项目)
 
-一大波 ChatGPT 开源项目，诞生了 https://zhuanlan.zhihu.com/p/590595246
+| Classification | Article                                                                                  | Comment |
+|----------------|------------------------------------------------------------------------------------------|---------|
+|                | GPT-neo                                                                                  |         |
+|                | https://github.com/EleutherAI/gpt-neo                                                    |         |
+|                | 一大波 ChatGPT 开源项目，诞生了                                                          |         |
+|                | https://zhuanlan.zhihu.com/p/590595246                                                   |         |
+|                | Open-Assistant（还未完成）                                                               |         |
+|                | https://github.com/LAION-AI/Open-Assistant                                               |         |
+|                | Awesome ChatGPT implementations https://github.com/stars/acheong08/lists/awesome-chatgpt |         |
 
-Open-Assistant（还未完成） https://github.com/LAION-AI/Open-Assistant
-
-Awesome ChatGPT implementations
-https://github.com/stars/acheong08/lists/awesome-chatgpt
-
-1.  账号注册方法
+9.  账号注册方法
 
 如何注册和使用chatGPT？
 https://www.zhihu.com/question/582647016/answer/2882289347
@@ -93,18 +102,14 @@ ChatGPT 目前仅开放给部分国家注册使用（ 韩国、日本、印度�
 
 1.  GPT-4·ChatGPT相关讨论
 
-阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？
-https://www.zhihu.com/question/570782945/answer/2795547780
+| Classification | Article                                                                                                                          | Comment |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------|---------|
+|                | 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？ https://www.zhihu.com/question/570782945/answer/2795547780 |         |
+|                | ChatGPT 这个项目会开源吗？ https://www.zhihu.com/question/571390218/answer/2796908126                                            |         |
+|                | ChatGPT会取代搜索引擎吗 https://zhuanlan.zhihu.com/p/589533490                                                                   |         |
+|                | ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？ https://www.zhihu.com/question/581806122/answer/2880224101  |         |
 
-ChatGPT 这个项目会开源吗？
-https://www.zhihu.com/question/571390218/answer/2796908126
-
-ChatGPT会取代搜索引擎吗 https://zhuanlan.zhihu.com/p/589533490
-
-ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？
-https://www.zhihu.com/question/581806122/answer/2880224101
-
-1.  主要网页或论文资源
+2.  主要网页或论文资源
 
 ChatGPT: Optimizing Language Models for Dialogue
 https://openai.com/blog/chatgpt/
