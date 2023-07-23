@@ -8,12 +8,6 @@ Large Language Model & GPT-4 Hub
 
 
 
-
-
-
-
-
-
 ## 1. Discussion Groups(讨论小组汇总)
 
 | Classification | Group                             | Link                 | Comment          |
@@ -51,26 +45,45 @@ Large Language Model & GPT-4 Hub
 
 ### 2.3 Large Language Model Technoglogy(大模型技术)
 
-| 类型              | Article                                                                                | Comment |
-|-------------------|----------------------------------------------------------------------------------------|---------|
-|                   | 通向AGI之路：大型语言模型（LLM）技术精要                                               |         |
-|                   | https://zhuanlan.zhihu.com/p/597586623                                                 |         |
-| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗                                  |         |
-|                   | https://zhuanlan.zhihu.com/p/602458131                                                 |         |
-| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？                                    |         |
-|                   | https://www.zhihu.com/question/575481512/answer/2852937178                             |         |
-| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained                                           |         |
+| 类型              | Article                                                      | Comment |
+| ----------------- | ------------------------------------------------------------ | ------- |
+| Basic             | 通向AGI之路：大型语言模型（LLM）技术精要                     |         |
+|                   | https://zhuanlan.zhihu.com/p/597586623                       |         |
+| RLHF              | 解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗        |         |
+|                   | https://zhuanlan.zhihu.com/p/602458131                       |         |
+| Training(训练)    | 为什么chatgpt的上下文连续对话能力得到了大幅度提升？          |         |
+|                   | https://www.zhihu.com/question/575481512/answer/2852937178   |         |
+| PPO算法讲解       | Proximal Policy Optimization (PPO) Explained                 |         |
 |                   | https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |         |
-| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO)                                  |         |
-|                   | https://aistudio.baidu.com/aistudio/projectdetail/632270                               |         |
-| Transformer       | Transformer 之功能概览                                                                 |         |
-|                   | https://zhuanlan.zhihu.com/p/604444663                                                 |         |
-| Transformer       | Transformer模型详解                                                                    |         |
-|                   | https://zhuanlan.zhihu.com/p/338817680                                                 |         |
-| Prompt            | Prompt-based Language Models：模版增强语言模型小结                                     |         |
-|                   | https://zhuanlan.zhihu.com/p/366771566                                                 |         |
-| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？                                 |         |
-|                   | https://zhuanlan.zhihu.com/p/589087074                                                 |         |
+| PPO算法讲解       | PARL框架下简单入门 Proximal Policy Optimization (PPO)        |         |
+|                   | https://aistudio.baidu.com/aistudio/projectdetail/632270     |         |
+| Transformer       | Transformer 之功能概览                                       |         |
+|                   | https://zhuanlan.zhihu.com/p/604444663                       |         |
+| Transformer       | Transformer模型详解                                          |         |
+|                   | https://zhuanlan.zhihu.com/p/338817680                       |         |
+| Prompt            | Prompt-based Language Models：模版增强语言模型小结           |         |
+|                   | https://zhuanlan.zhihu.com/p/366771566                       |         |
+| Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？       |         |
+|                   | https://zhuanlan.zhihu.com/p/589087074                       |         |
+
+
+
+### 2.4 Application Guide(应用指南)
+
+| 类型   | Article                                                      | Comment |
+| ------ | ------------------------------------------------------------ | ------- |
+| Basic  | LLMsPracticalGuide                                           |         |
+|        | https://github.com/Mooler0410/LLMsPracticalGuide             |         |
+| Baisc  | HuggingLLM                                                   |         |
+|        | https://github.com/datawhalechina/hugging-llm                |         |
+| Prompt | 提示工程指南                                                 |         |
+|        | https://www.promptingguide.ai/zh                             |         |
+| Prompt | 面向开发者的 LLM 入门课程                                    |         |
+|        | https://github.com/datawhalechina/prompt-engineering-for-developers |         |
+|        |                                                              |         |
+|        |                                                              |         |
+
+
 
 ## 3. Investment Analysis(投资分析)
 
@@ -104,6 +117,25 @@ Large Language Model & GPT-4 Hub
 
 ### 5.1 Foundation Model(基础模型)
 
+#### 5.1.1 Text Model(文本模型)
+
+| Model                | Description & Link                                           | Comment |
+| -------------------- | ------------------------------------------------------------ | ------- |
+| ChatGLM              | 清华模型，针对中文问答和对话进行了优化                       |         |
+|                      | https://github.com/THUDM/ChatGLM-6B                          |         |
+| ChatGLM2-6B          | 在保留了初代模型对话流畅、部署门槛较低等众多优秀特性的基础之上，引入了GLM 的混合目标函数 |         |
+|                      | https://github.com/THUDM/ChatGLM2-6B                         |         |
+| Chinese-LLaMA-Alpaca | 中文LLaMA&Alpaca大语言模型                                   |         |
+|                      | https://github.com/ymcui/Chinese-LLaMA-Alpaca                |         |
+| BELLE                | 开源了基于BLOOMZ和LLaMA优化后的一系列模型，同时包括训练数据、相关模型、训练代码、应用场景等 |         |
+|                      | https://github.com/LianjiaTech/BELLE                         |         |
+| Luotuo-Chinese-LLM   | 囊括了一系列中文大语言模型开源项目，包含了一系列基于已有开源模型（ChatGLM, MOSS, LLaMA）进行二次微调的语言模型，指令微调数据集等 |         |
+|                      | https://github.com/LC1332/Luotuo-Chinese-LLM                 |         |
+| Baichuan-7B          | 由百川智能开发的一个开源可商用的大规模预训练语言模型         |         |
+|                      | https://github.com/baichuan-inc/Baichuan-13B                 |         |
+|                      |                                                              |         |
+|                      |                                                              |         |
+
 
 
 #### 5.1.2 Multimodal(多模态)
@@ -121,7 +153,7 @@ Large Language Model & GPT-4 Hub
 
 ### 5.3 Dataset(数据集)
 
-Pre-train Dataset(预训练数据集)
+#### 5.3.1 Pre-train Dataset(预训练数据集)
 
 | Dataset          | Description & Link                                           | Comment |
 | ---------------- | ------------------------------------------------------------ | ------- |
@@ -134,7 +166,39 @@ Pre-train Dataset(预训练数据集)
 | Argilla          | Open-source data curation platform for LLMs，MLOps for NLP: from data labeling to model monitoring |         |
 |                  | https://github.com/argilla-io/argilla                        |         |
 
+#### 5.3.2 Finetune Dataset(精调数据集)
 
+| Dataset         | Description & Link                                         | Comment |
+| --------------- | ---------------------------------------------------------- | ------- |
+| Alpaca-CoT      | 统一了丰富的IFT数据                                        |         |
+|                 | https://github.com/PhoebusSi/Alpaca-CoT                    |         |
+| BELLE-data-1.5M | self-instruct生成，使用了中文种子任务                      |         |
+|                 | https://github.com/LianjiaTech/BELLE/tree/main/data/1.5M   |         |
+| Alpaca-GPT-4    | self-instruct生成，使用了中文种子任务                      |         |
+|                 | https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+|                 |                                                            |         |
+
+
+
+5.3.3 RLHF(人类反馈强化学习数据集)
+
+| Dataset | Description & Link                | Comment |
+| ------- | --------------------------------- | ------- |
+| CValues | 数据规模为145k的价值对齐数据集    |         |
+|         | https://github.com/X-PLUG/CValues |         |
+|         |                                   |         |
+|         |                                   |         |
+|         |                                   |         |
+|         |                                   |         |
+|         |                                   |         |
+|         |                                   |         |
 
 ### 5.4 Compression(压缩)
 
@@ -145,24 +209,29 @@ Pre-train Dataset(预训练数据集)
 
 ## 6. Application Open Source Projects(应用开源项目)
 
-| Classification | Article                                                                                  | Comment |
-|----------------|------------------------------------------------------------------------------------------|---------|
-|                | GPT-neo                                                                                  |         |
-|                | https://github.com/EleutherAI/gpt-neo                                                    |         |
-|                | 一大波 ChatGPT 开源项目，诞生了                                                          |         |
-|                | https://zhuanlan.zhihu.com/p/590595246                                                   |         |
-|                | Open-Assistant（还未完成）                                                               |         |
-|                | https://github.com/LAION-AI/Open-Assistant                                               |         |
-|                | Awesome ChatGPT implementations https://github.com/stars/acheong08/lists/awesome-chatgpt |         |
+| Classification | Article                                                  | Comment |
+| -------------- | -------------------------------------------------------- | ------- |
+|                | GPT-neo                                                  |         |
+|                | https://github.com/EleutherAI/gpt-neo                    |         |
+|                | 一大波 ChatGPT 开源项目，诞生了                          |         |
+|                | https://zhuanlan.zhihu.com/p/590595246                   |         |
+|                | Open-Assistant（还未完成）                               |         |
+|                | https://github.com/LAION-AI/Open-Assistant               |         |
+|                | Awesome ChatGPT implementations                          |         |
+|                | https://github.com/stars/acheong08/lists/awesome-chatgpt |         |
 
 ## 7. Related Discussion(相关讨论)
 
-| Classification | Article                                                                                                                          | Comment |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------|---------|
-|                | 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？ https://www.zhihu.com/question/570782945/answer/2795547780 |         |
-|                | ChatGPT 这个项目会开源吗？ https://www.zhihu.com/question/571390218/answer/2796908126                                            |         |
-|                | ChatGPT会取代搜索引擎吗 https://zhuanlan.zhihu.com/p/589533490                                                                   |         |
-|                | ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？ https://www.zhihu.com/question/581806122/answer/2880224101  |         |
+| Classification | Article                                                      | Comment |
+| -------------- | ------------------------------------------------------------ | ------- |
+|                | 阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些，技术，钱，还是领导力？ |         |
+|                | https://www.zhihu.com/question/570782945/answer/2795547780   |         |
+|                | ChatGPT 这个项目会开源吗？                                   |         |
+|                | https://www.zhihu.com/question/571390218/answer/2796908126   |         |
+|                | ChatGPT会取代搜索引擎吗                                      |         |
+|                | https://zhuanlan.zhihu.com/p/589533490                       |         |
+|                | ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？ |         |
+|                | https://www.zhihu.com/question/581806122/answer/2880224101   |         |
 
 ## 8. Web& Paper (网页论文资源)
 
