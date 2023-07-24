@@ -6,7 +6,9 @@ Large Language Model & GPT-4 Tech and Industry Resource Map
 
 (大语言模型 & 多模态大模型 & 生成式预训练Transformer-N 技术与产业资源汇总)
 
+This resource map is for my child and young developers that will face a AGI world in the future.
 
+It has been created to help equip children and young developers with the knowledge and skills that will be necessary to navigate the rapidly-evolving world of AGI. As we continue to develop and rely on AI technologies, it is becoming increasingly important for younger generations to be prepared for the challenges and opportunities that lie ahead. In order to ensure that they are ready for this future, we have compiled a comprehensive list of resources and tools that will help them to understand the basics of AGI.
 
 ## 1. Discussion Groups(讨论小组汇总)
 
