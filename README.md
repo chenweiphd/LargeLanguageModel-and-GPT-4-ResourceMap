@@ -10,14 +10,18 @@ Large Language Model & GPT-4 Tech and Industry Hub
 
 ## 1. Discussion Groups(讨论小组汇总)
 
-| 使用讨论                     | 算法技术                               | 投资创业                               | 应用方案                     | 算力交流                     |
-| ---------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------- | ---------------------------- |
-| AI大模型·GPT-4使用技巧讨论群 | AI大模型·GPT-4算法技术讨论群           | AI大模型·GPT-4创业投资讨论群           | AI大模型·GPT-4应用方案讨论群 | AI大模型·GPT-4算力交流讨论群 |
-|                              | http://c.nxw.so/cgpt  点入链接加群助手 | http://c.suo.nz/cinv  点入链接加群助手 |                              |                              |
+| 算法技术                               | 投资创业                               | 应用方案                     | 算力供需                     |
+| -------------------------------------- | -------------------------------------- | ---------------------------- | ---------------------------- |
+| AI大模型·GPT-4算法技术讨论群           | AI大模型·GPT-4创业投资讨论群           | AI大模型·GPT-4应用方案讨论群 | AI大模型·GPT-4算力供需交流群 |
+| http://c.nxw.so/cgpt  点入链接加群助手 | http://c.suo.nz/cinv  点入链接加群助手 |                              |                              |
+|                                        |                                        |                              |                              |
+| **GPGPU**                              | **存算一体/存储器**                    | **车用芯片**                 | **EDA大模型**                |
+| GPGPU与先进GPU设计讨论群               | 存算一体与存储器技术讨论群             | 车用芯片设计讨论群           | 开源EDA与EDA大模型讨论群     |
+|                                        |                                        |                              |                              |
 
 ## 2. Tech Guide(技术入门)
 
-### 2.1 GPT-4技术报告
+### 2.1 GPT-4 Tech Report(GPT-4技术报告)
 
 | Classification | Article                                                                               |
 |----------------|---------------------------------------------------------------------------------------|
@@ -28,7 +32,7 @@ Large Language Model & GPT-4 Tech and Industry Hub
 |                | 陈巍谈芯：GPT-4大模型硬核解读 （收录于GPT-4/ChatGPT技术与产业分析）                         |
 |                | https://mp.weixin.qq.com/s/nV2ynNtKmMNkADA8Wg4TVQ                                      |
 
-### 2.2 ChatGPT技术报告
+### 2.2 ChatGPT Tech Report(ChatGPT技术报告)
 
 | Classification | Article                                                      |
 | -------------- | ------------------------------------------------------------ |
@@ -65,6 +69,10 @@ Large Language Model & GPT-4 Tech and Industry Hub
 |                   | https://zhuanlan.zhihu.com/p/366771566                       |
 | Chain of Thoughts | 有了Chain of Thought Prompting，大模型能做逻辑推理吗？       |
 |                   | https://zhuanlan.zhihu.com/p/589087074                       |
+| Knowledge Base    | Quivr 基于OpenAI Embeddings构建本地知识库                    |
+|                   | https://zhuanlan.zhihu.com/p/631038668                       |
+| GPT Cache         | GPTCache：通过缓存LLM查询成本降低 10 倍，速度提高 100 倍     |
+|                   | https://zhuanlan.zhihu.com/p/645601760                       |
 
 
 
