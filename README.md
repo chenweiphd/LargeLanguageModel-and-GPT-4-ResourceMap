@@ -4,7 +4,7 @@
 Large Language Model & GPT-4 Tech and Industry Resource Map
 ================================
 
-(大语言模型 & 多模态大模型 & 生成式预训练变换器-N 技术与产业资源汇总)
+(大语言模型 & 多模态大模型 & 生成式预训练Transformer-N 技术与产业资源汇总)
 
 
 
