@@ -1,10 +1,17 @@
-![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub/assets/100336131/6a82fbae-936c-4361-9fc9-3e8b402ec4ef)
-
+![image-20230725135153979](C:\Users\i\AppData\Roaming\Typora\typora-user-images\image-20230725135153979.png)
 
 Large Language Model & GPT-4 Tech and Industry Resource Map
 ================================
 
 (大语言模型 & 多模态大模型 & 生成式预训练Transformer-N 技术与产业资源汇总)
+
+
+
+| 1. Discussion Groups(讨论小组汇总)   | 5. Model Resources(模型资源)                          |
+| ------------------------------------ | ----------------------------------------------------- |
+| **2. Tech Guide(技术入门)**          | **6. Application Open Source Projects(应用开源项目)** |
+| **3. Investment Analysis(投资分析)** | **7. Related Discussion(相关讨论)**                   |
+| **4. Industry Analysis(产业分析)**   | **8. Web& Paper (网页论文资源)**                      |
 
 This resource map is for my child and young developers that will face a AGI world in the future.
 
