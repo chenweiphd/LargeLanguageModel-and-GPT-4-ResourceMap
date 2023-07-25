@@ -1,4 +1,5 @@
-![image-20230725135153979](C:\Users\i\AppData\Roaming\Typora\typora-user-images\image-20230725135153979.png)
+![image](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap/assets/100336131/d1d450f6-05a1-4b69-b60c-5fffbabb82ab)
+
 
 Large Language Model & GPT-4 Tech and Industry Resource Map
 ================================
