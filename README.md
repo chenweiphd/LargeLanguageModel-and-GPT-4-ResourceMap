@@ -23,17 +23,20 @@ It has been created to help equip children and young developers with the knowled
 
 | 大模型算法技术                         | 大模型投资创业                         | 大模型应用方案               | 大模型算力供需               |
 | -------------------------------------- | -------------------------------------- | ---------------------------- | ---------------------------- |
-| AI大模型·GPT-4算法技术讨论群           | AI大模型·GPT-4创业投资讨论群           | AI大模型·GPT-4应用方案讨论群 | AI大模型·GPT-4算力供需交流群 |
+| AI大模型·GPT-4算法技术讨论群-2         | AI大模型·GPT-4创业投资讨论群-2         | AI大模型·GPT-4应用方案讨论群 | AI大模型·GPT-4算力供需交流群 |
 | http://c.nxw.so/cgpt  点入链接加群助手 | http://c.suo.nz/cinv  点入链接加群助手 |                              |                              |
-|                                        |                                        |                              |                              |
 
-| **GPGPU**                | **存算一体/存储器**        | **车规与域控芯片**           | **EDA大模型**            |
-| ------------------------ | -------------------------- | ---------------------------- | ------------------------ |
-| GPGPU与先进GPU设计讨论群 | 存算一体与存储器技术讨论群 | 车规与域控制器芯片设计讨论群 | 开源EDA与EDA大模型讨论群 |
-|                          |                            |                              |                          |
-| **DSA**                  | **AI芯片与GPGPU编译器**    | **RISC-V**                   |                          |
-| AI芯片与DSA设计讨论群    | AI芯片与GPGPU编译器讨论群  | RISC-V架构与设计讨论群       |                          |
-|                          |                            |                              |                          |
+| **GPGPU**                  | **存算一体/存储器**          | **车规与域控芯片**           | **EDA大模型**            |
+| -------------------------- | ---------------------------- | ---------------------------- | ------------------------ |
+| GPGPU与先进GPU设计讨论群-2 | 存算一体与存储器技术讨论群-2 | 车规与域控制器芯片设计讨论群 | 开源EDA与EDA大模型讨论群 |
+|                            |                              |                              |                          |
+
+| **DSA**               | **AI芯片与GPGPU编译器**   | **RISC-V**             |      |
+| --------------------- | ------------------------- | ---------------------- | ---- |
+| AI芯片与DSA设计讨论群 | AI芯片与GPGPU编译器讨论群 | RISC-V架构与设计讨论群 |      |
+|                       |                           |                        |      |
+
+
 
 ## 2. Tech Guide(技术入门)
 
@@ -65,7 +68,7 @@ It has been created to help equip children and young developers with the knowled
 
 ### 2.3 Large Language Model Technoglogy(大模型技术)
 
-| 类型              | Article                                                      |
+| Classification    | Article                                                      |
 | ----------------- | ------------------------------------------------------------ |
 | Basic             | 通向AGI之路：大型语言模型（LLM）技术精要                     |
 |                   | https://zhuanlan.zhihu.com/p/597586623                       |
@@ -94,16 +97,16 @@ It has been created to help equip children and young developers with the knowled
 
 ### 2.4 Application Guide(应用指南)
 
-| 类型   | Article                                                      |
-| ------ | ------------------------------------------------------------ |
-| Basic  | LLMsPracticalGuide                                           |
-|        | https://github.com/Mooler0410/LLMsPracticalGuide             |
-| Baisc  | HuggingLLM                                                   |
-|        | https://github.com/datawhalechina/hugging-llm                |
-| Prompt | 提示工程指南                                                 |
-|        | https://www.promptingguide.ai/zh                             |
-| Prompt | 面向开发者的 LLM 入门课程                                    |
-|        | https://github.com/datawhalechina/prompt-engineering-for-developers |
+| Classification | Article                                                      |
+| -------------- | ------------------------------------------------------------ |
+| Basic          | LLMsPracticalGuide                                           |
+|                | https://github.com/Mooler0410/LLMsPracticalGuide             |
+| Baisc          | HuggingLLM                                                   |
+|                | https://github.com/datawhalechina/hugging-llm                |
+| Prompt         | 提示工程指南                                                 |
+|                | https://www.promptingguide.ai/zh                             |
+| Prompt         | 面向开发者的 LLM 入门课程                                    |
+|                | https://github.com/datawhalechina/prompt-engineering-for-developers |
 
 
 
