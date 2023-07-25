@@ -8,11 +8,12 @@ Large Language Model & GPT-4 Tech and Industry Resource Map
 
 
 
-| 1. Discussion Groups(讨论小组汇总)   | 5. Model Resources(模型资源)                          |
-| ------------------------------------ | ----------------------------------------------------- |
-| **2. Tech Guide(技术入门)**          | **6. Application Open Source Projects(应用开源项目)** |
-| **3. Investment Analysis(投资分析)** | **7. Related Discussion(相关讨论)**                   |
-| **4. Industry Analysis(产业分析)**   | **8. Web& Paper (网页论文资源)**                      |
+|                                        |                                                       |
+| -------------------------------------- | ----------------------------------------------------- |
+| **1. Discussion Groups(讨论小组汇总)** | **5. Model Resources(模型资源)**                      |
+| **2. Tech Guide(技术入门)**            | **6. Application Open Source Projects(应用开源项目)** |
+| **3. Investment Analysis(投资分析)**   | **7. Related Discussion(相关讨论)**                   |
+| **4. Industry Analysis(产业分析)**     | **8. Web& Paper (网页论文资源)**                      |
 
 This resource map is for my child and young developers that will face a AGI world in the future.
 
